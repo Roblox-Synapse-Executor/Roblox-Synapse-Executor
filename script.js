@@ -1,0 +1,1 @@
+console.log("Roblox Synapse Executor is active!");
